@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "*.tcc": "cpp"
+    },
+    "code-runner.executorMap":{
+        "cpp": "cd $dir && g++ -std=c++11 $fileName -I /home/project/wuziqi/server/ -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+}
